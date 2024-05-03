@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "my_platform_types.h": "c",
+        "string.h": "c",
+        "linked_list.h": "c",
+        "admin.h": "c",
+        "user.h": "c",
+        "flush.h": "c"
+    }
+}

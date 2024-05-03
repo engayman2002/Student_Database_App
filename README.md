@@ -34,6 +34,8 @@ Admin Mode has many features like:
 ### Notes
 The Password of Admin Mode is Ayman.
 
+You can change it by editing on #define Ayman_Password "Ayman" (Replace Ayman with your Name ^_^).
+
 ## User Mode
 User Mode has three features like:
 
